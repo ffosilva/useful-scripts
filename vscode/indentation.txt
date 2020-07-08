@@ -1,0 +1,7 @@
+Settings -> Preferences
+
+Search for: C_Cpp.clang_format_fallbackStyle
+
+The default value is: Visual Studio
+
+I Like: { BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}
